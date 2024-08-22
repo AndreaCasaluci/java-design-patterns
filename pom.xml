@@ -19,6 +19,7 @@
     <description>java-design-patterns</description>
     <modules>
         <module>factory</module>
+        <module>abstract-factory</module>
     </modules>
 
 

@@ -3,7 +3,7 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
-        <entry key="abstract-factory" value="factory" />
+        <entry key="factory" value="factory" />
       </map>
     </option>
   </component>

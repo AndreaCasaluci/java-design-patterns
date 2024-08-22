@@ -4,7 +4,7 @@ import org.andrea.factory.Dialog;
 import org.andrea.factory.HtmlDialog;
 import org.andrea.factory.WindowsDialog;
 
-public class AbstractFactoryMethodDemo {
+public class FactoryMethodDemo {
 
     private static Dialog dialog;
 
