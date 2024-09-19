@@ -21,6 +21,8 @@
         <module>factory</module>
         <module>abstract-factory</module>
         <module>builder</module>
+        <module>prototype</module>
+        <module>prototype-registry</module>
     </modules>
 
 
