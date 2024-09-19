@@ -1,4 +1,4 @@
-g.andrea;
+.andrea;
 
 import org.andrea.shapes.Circle;
 import org.andrea.shapes.Rectangle;
