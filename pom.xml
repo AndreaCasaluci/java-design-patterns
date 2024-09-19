@@ -27,6 +27,7 @@
         <module>naive-singleton-multi-threaded</module>
         <module>thread-safe-singleton-lazy-loading</module>
         <module>adapter</module>
+        <module>bridge</module>
     </modules>
 
 
