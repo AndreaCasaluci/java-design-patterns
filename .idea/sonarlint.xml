@@ -4,6 +4,7 @@
     <option name="moduleMapping">
       <map>
         <entry key="factory" value="factory" />
+        <entry key="naive-singleton-single-threaded" value="singleton" />
       </map>
     </option>
   </component>

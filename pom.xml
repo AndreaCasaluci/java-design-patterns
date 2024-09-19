@@ -23,6 +23,9 @@
         <module>builder</module>
         <module>prototype</module>
         <module>prototype-registry</module>
+        <module>naive-singleton-single-threaded</module>
+        <module>naive-singleton-multi-threaded</module>
+        <module>thread-safe-singleton-lazy-loading</module>
     </modules>
 
 
