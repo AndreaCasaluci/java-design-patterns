@@ -28,6 +28,7 @@
         <module>thread-safe-singleton-lazy-loading</module>
         <module>adapter</module>
         <module>bridge</module>
+        <module>compound</module>
     </modules>
 
 
